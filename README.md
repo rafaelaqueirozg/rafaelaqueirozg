@@ -27,7 +27,7 @@
 Languages and Tools
 </h3>
 
-<div style="display: flex; justify-content: center; align-items: center">
+<p align="center">
 <a style="margin-right: 15px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_plain_logo_icon_146454.png" width="28px"> Javascript
 </a>
@@ -49,7 +49,7 @@ Languages and Tools
 <a href="https://reactnative.dev/">
 <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/react_logo_icon_144942.png" width="25px"> React Native*
 </a>
-</div>
+</p>
 <p align="center">
 <small>* Studying</small>
 </p>
