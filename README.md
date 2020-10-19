@@ -1,21 +1,27 @@
 # Hi, I'm Rafaela! :D
 
 <div style="display: flex">
-<div style="margin-right: 30px">
-<img src="https://scontent.xx.fbcdn.net/v/t39.1997-6/121097250_349514939658927_1383945817237269138_n.png?_nc_cat=109&_nc_sid=ac3552&_nc_eui2=AeElv3kT1K8kMCU0gkqEeUB62KvnYZlspIbYq-dhmWykhh4b1yJNcRtLCCCKZC43div6UZfR7ldar27s7Ju4rFof&_nc_ohc=f-uAWMBFp4MAX8u7RFH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=6fb15912c0bbc04f323950ad14e0894e&oe=5FB15B7B" width="200px">
-</div>
-<div>
-🎓 *Software Development Technician in [Escola SENAI de Informática](https://informatica.sp.senai.br/).*
-👩🏻‍💻 *Frontend Developer at [Brisanet Telecomunicações](https://www.brisanet.com.br)*.
-📌 *Current working with Angular 2+*
-💻 *Website - Working on it...*
-🇧🇷 *Living in Brazil*.
-</div>
+  <div style="margin-right: 30px">
+  <img src="https://scontent.xx.fbcdn.net/v/t39.1997-6/121097250_349514939658927_1383945817237269138_n.png?_nc_cat=109&_nc_sid=ac3552&_nc_eui2=AeElv3kT1K8kMCU0gkqEeUB62KvnYZlspIbYq-dhmWykhh4b1yJNcRtLCCCKZC43div6UZfR7ldar27s7Ju4rFof&_nc_ohc=f-uAWMBFp4MAX8u7RFH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=6fb15912c0bbc04f323950ad14e0894e&oe=5FB15B7B" width="200px">
+  </div>
+  <div>
+  <span style="font-style: italic">🎓 Software Development Technician in <a href="https://informatica.sp.senai.br/"><b>Escola SENAI de Informática</b></a>.</span>
+<br>  
+<span style="font-style: italic">👩🏻‍💻 Frontend Developer at <a href="https://www.brisanet.com.br"><b>Brisanet Telecomunicações</b></a>.</span>
+<br>
+  <span style="font-style: italic">📌 Current working with Angular 2+.</span>
+<br>
+<span style="font-style: italic">  💻 Website - Working on it...</span>
+<br>
+<span style="font-style: italic">  🇧🇷 Living in Brazil.</span>
+<br>
+<span style="font-style: italic">  💬 If you have any question or just wanna talk about programming, contact me.</span>
+  </div>
 </div>
 
-<p align="center">
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaela-queiroz)](https://github.com/rafaela-queiroz) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelaqueiroz21/)](https://www.linkedin.com/in/rafaelaqueiroz21/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaela.queirozz_/)](https://www.instagram.com/rafaela.queirozz_/)
-</p>
+<br>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaela-queiroz)](https://github.com/rafaela-queiroz) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelaqueiroz21/)](https://www.linkedin.com/in/rafaelaqueiroz21/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaela.queirozz_/)](https://www.instagram.com/rafaela.queirozz_/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-f4f4f4?style=flat-square&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:rqueiroz2108@gmail.com/)](mailto:rqueiroz2108@gmail.com)
 
 <h3 align="center">
 Languages and Tools
@@ -48,10 +54,8 @@ Languages and Tools
 <small>\* Studying</small>
 </p>
 
-<p align="center">
 ![Rafaela's github stats](https://github-readme-stats.vercel.app/api?username=rafaela-queiroz&count_private=true&show_icons=true&hide_border=true)
 ![Rafaela's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela-queiroz&count_private=true&show_icons=true&hide_border=true)
-</p>
 
 <div style="display: flex; justify-content: space-between">
 <div style="margin-right: 20px">
