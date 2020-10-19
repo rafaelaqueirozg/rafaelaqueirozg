@@ -44,14 +44,14 @@ Languages and Tools
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" width="30px"> CSS
 </a>
 <a style="margin-right: 15px" href="https://reactjs.org/">
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_reactjs_icon_130205.png" width="30px"> ReactJS\*
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_reactjs_icon_130205.png" width="30px"> ReactJS*
 </a>
 <a href="https://reactnative.dev/">
-<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/react_logo_icon_144942.png" width="25px"> React Native\*
+<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/react_logo_icon_144942.png" width="25px"> React Native*
 </a>
 </div>
 <p align="center">
-<small>\* Studying</small>
+<small>* Studying</small>
 </p>
 
 ![Rafaela's github stats](https://github-readme-stats.vercel.app/api?username=rafaela-queiroz&count_private=true&show_icons=true&hide_border=true)
