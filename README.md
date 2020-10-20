@@ -18,6 +18,7 @@
 </p>
 
 <br>
+<h1></h1>
 
 <p align="center">
   <a href="https://github.com/rafaela-queiroz">
@@ -75,9 +76,11 @@ Languages and Tools
   <small>* Studying</small>
 </p>
 
-![Rafaela's github stats](https://github-readme-stats.vercel.app/api?username=rafaela-queiroz&count_private=true&show_icons=true&hide_border=true)
-![Rafaela's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela-queiroz&count_private=true&show_icons=true&hide_border=true)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaela-queiroz&count_private=true&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela-queiroz&count_private=true&show_icons=true&hide_border=true" />
+</p>
 
 <h2 align="center">
-Show some ❤️ by starring some of the repositories!
+  Show some ❤️ by starring some of the repositories!
 </h2>
