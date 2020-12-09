@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/42815135/96607940-3c0dce00-12cf-11eb-8204-d6bf31280f2b.gif" width="60%">
 </p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://scontent.xx.fbcdn.net/v/t39.1997-6/121097250_349514939658927_1383945817237269138_n.png?_nc_cat=109&_nc_sid=ac3552&_nc_eui2=AeElv3kT1K8kMCU0gkqEeUB62KvnYZlspIbYq-dhmWykhh4b1yJNcRtLCCCKZC43div6UZfR7ldar27s7Ju4rFof&_nc_ohc=f-uAWMBFp4MAX8u7RFH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=6fb15912c0bbc04f323950ad14e0894e&oe=5FB15B7B"><img align="left" width="150" height="150" alt="Rafaela Queiroz" src="https://scontent.xx.fbcdn.net/v/t39.1997-6/121097250_349514939658927_1383945817237269138_n.png?_nc_cat=109&_nc_sid=ac3552&_nc_eui2=AeElv3kT1K8kMCU0gkqEeUB62KvnYZlspIbYq-dhmWykhh4b1yJNcRtLCCCKZC43div6UZfR7ldar27s7Ju4rFof&_nc_ohc=f-uAWMBFp4MAX8u7RFH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=6fb15912c0bbc04f323950ad14e0894e&oe=5FB15B7B" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/42815135/101557350-9eb04b80-399b-11eb-9f39-9f0fc420ddf7.png"><img align="left" width="150" height="150" alt="Rafaela Queiroz" src="https://user-images.githubusercontent.com/42815135/101557350-9eb04b80-399b-11eb-9f39-9f0fc420ddf7.png" style="max-width:100%;"></a></p>
 
 <p>
   <em style="font-style: italic">🎓 Software Development Technician in <a href="https://informatica.sp.senai.br/"><b>Escola SENAI de Informática</b></a>.
