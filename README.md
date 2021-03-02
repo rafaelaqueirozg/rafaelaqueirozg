@@ -7,7 +7,7 @@
 <p>
   <em style="font-style: italic">🎓 Software Development Technician in <a href="https://informatica.sp.senai.br/"><b>Escola SENAI de Informática</b></a>.
   <br>
-  👩🏻‍💻 Frontend Developer at <a href="https://www.brisanet.com.br"><b>Brisanet Telecomunicações</b></a>.
+  👩🏻‍💻 Frontend Developer at <a href="https://www.dextra.com.br/"><b>Dextra</b></a>.
   <br>
   📌 Current working with Angular 2+.
   <br>
