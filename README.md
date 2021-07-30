@@ -5,9 +5,9 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/42815135/101557350-9eb04b80-399b-11eb-9f39-9f0fc420ddf7.png"><img align="left" width="150" height="150" alt="Rafaela Queiroz" src="https://user-images.githubusercontent.com/42815135/101557350-9eb04b80-399b-11eb-9f39-9f0fc420ddf7.png" style="max-width:100%;"></a></p>
 
 <p>
-  <em style="font-style: italic">🎓 Software Development Technician in <a href="https://informatica.sp.senai.br/"><b>Escola SENAI de Informática</b></a>.
+  <em style="font-style: italic">🎓 Undergraduate in Web Development at <a href="https://estacio.br/"><b>Estácio</b></a>.
   <br>
-  👩🏻‍💻 Frontend Developer at <a href="https://www.dextra.com.br/"><b>Dextra</b></a>.
+  👩🏻‍💻 Frontend Engineer at <a href="https://www.dextra.com.br/"><b>Dextra</b></a>.
   <br>
   📌 Current working with Angular 2+.
   <br>
@@ -67,15 +67,7 @@ Languages and Tools
   
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="30" height="30" style="max-width:100%;margin-right: 15px">
-  </a>*
-  
-  <a target="_blank" rel="noopener noreferrer" href="https://cdn.iconscout.com/icon/free/png-512/react-native-555397.png">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/react-native-555397.png" alt="React Native" width="30" height="30" style="max-width:100%;margin-right: 15px">
-  </a>*
-</p>
-
-<p align="center">
-  <small>* Studying</small>
+  </a>
 </p>
 
 <p align="center">
