@@ -23,16 +23,20 @@
 <h4></h4>
 
 <p align="center">
-  <a href="https://github.com/rafaela-queiroz">
-    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/rafaela-queiroz">
+  <a href="https://medium.com/@rafaelaqueirozg">
+    <img src="https://img.shields.io/badge/-Medium-f4f4f4?style=for-the-badge&logo=Medium&logoColor=black&link=https://medium.com/@rafaelaqueirozg">
+  </a>
+  
+  <a href="https://github.com/rafaelaqueirozg">
+    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/rafaelaqueirozg">
   </a>
 
-  <a href="https://www.linkedin.com/in/rafaelaqueiroz21/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelaqueiroz21/">
+  <a href="https://www.linkedin.com/in/rafaelaqueirozg/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelaqueirozg/">
   </a>
 
-  <a href="https://www.instagram.com/rafaela.queirozz_/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaela.queirozz_/">
+  <a href="https://www.instagram.com/rafaelaqueirozg/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaelaqueirozg/">
   </a>
 
   <a href="mailto:rqueiroz2108@gmail.com">
@@ -71,8 +75,8 @@ Languages and Tools
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaela-queiroz&count_private=true&show_icons=true&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela-queiroz&count_private=true&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelaqueirozg&count_private=true&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaqueirozg&count_private=true&show_icons=true&hide_border=true" />
 </p>
 
 <h2 align="center">
