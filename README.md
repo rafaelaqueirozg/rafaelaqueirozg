@@ -7,9 +7,9 @@
 <p>
   <em style="font-style: italic">🎓 Undergraduate in Web Development at <a href="https://estacio.br/"><b>Estácio</b></a>.
   <br>
-  👩🏻‍💻 Frontend Engineer at <a href="https://www.dextra.com.br/"><b>Dextra</b></a>.
+  👩🏻‍💻 Frontend Engineer at <a href="https://ciandt.com"><b>CI&T</b></a>.
   <br>
-  📌 Current working with Angular 2+.
+  📌 Current working with Angular 2+, Typescript and React.
   <br>
   💻 Website - Working on it...
   <br>
