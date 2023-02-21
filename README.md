@@ -6,7 +6,7 @@
 
 <br/>
 
-I've been a software engineer since 2019, with expertise in **Frontend Development**, working with the main technologies, such as **Angular, Typescript, React, RxJS**, always striving for semantic, simple, and functional codes that follow good software practices and principles.
+I've been working as a software engineer since 2019, with expertise in **Frontend Development**, working with the main technologies, such as **Angular, Typescript, React, RxJS**, always striving for semantic, simple, and functional codes that follow good software practices and principles.
 
 - 🌍 I'm based in Ceará, Brazil
 - 🎓 Undergraduate in Web Development at Universidade Estácio de Sá
