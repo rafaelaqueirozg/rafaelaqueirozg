@@ -1,84 +1,192 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/42815135/96607940-3c0dce00-12cf-11eb-8204-d6bf31280f2b.gif" width="60%">
-</p>
+# <div align="center">Hi 👋 I'm Rafaela, a Software Engineer</div>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/42815135/101557350-9eb04b80-399b-11eb-9f39-9f0fc420ddf7.png"><img align="left" width="150" height="150" alt="Rafaela Queiroz" src="https://user-images.githubusercontent.com/42815135/101557350-9eb04b80-399b-11eb-9f39-9f0fc420ddf7.png" style="max-width:100%;"></a></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafaelaqueirozg&&style=flat-square" />
+</div>
 
-<p>
-  <em style="font-style: italic">🎓 Undergraduate in Web Development at <a href="https://estacio.br/"><b>Estácio</b></a>.
-  <br>
-  👩🏻‍💻 Frontend Engineer at <a href="https://ciandt.com"><b>CI&T</b></a>.
-  <br>
-  📌 Current working with Angular 2+, Typescript and React.
-  <br>
-  💻 Website - Working on it...
-  <br>
-  🇧🇷 Living in Brazil.
-  <br>
-  💬 If you have any question or just wanna talk about programming, contact me.
-  </em>
-</p>
+<br/>
 
-<br>
-<h4></h4>
+I've been a software engineer since 2019, with expertise in **Frontend Development**, working with the main technologies, such as **Angular, Typescript, React, RxJS**, always striving for semantic, simple, and functional codes that follow good software practices and principles.
 
-<p align="center">
-  <a href="https://medium.com/@rafaelaqueirozg">
-    <img src="https://img.shields.io/badge/-Medium-f4f4f4?style=for-the-badge&logo=Medium&logoColor=black&link=https://medium.com/@rafaelaqueirozg">
+- 🌍 I'm based in Ceará, Brazil
+- 🎓 Undergraduate in Web Development at Universidade Estácio de Sá
+- 🚀 Frontend Engineer at CI&T
+- 📌 Current working with Angular 2+, Typescript and React
+- 💬 If you have any question or just wanna talk about programming, contact me
+
+<br/>
+
+## My Skill Set
+
+<div align="center">
+  <a href="https://www.javascript.com/" target="_blank">
+    <img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
+      alt="JavaScript"
+      height="50"
+    />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg"
+      alt="TypeScript"
+      height="50"
+    />
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg"
+      alt="Angular"
+      height="50"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
+      alt="React"
+      height="50"
+    />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+    <img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
+      alt="HTML5"
+      height="50"
+    />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"
+      alt="CSS3"
+      height="50"
+    />
+  </a>
+  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
+    <img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"
+      alt="Bootstrap"
+      height="50"
+    />
+  </a>
+  <a href="https://sass-lang.com/" target="_blank">
+    <img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/sass-original.svg"
+      alt="Sass"
+      height="50"
+    />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg"
+      alt="Node.js"
+      height="50"
+    />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"
+      alt="Linux"
+      height="50"
+    />
+  </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/redux-original.svg"
+      alt="Redux"
+      height="50"
+    />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"
+      alt="Git"
+      height="50"
+    />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg"
+      alt="Figma"
+      height="50"
+    />
+  </a>
+  <a href="http://getbem.com/" target="_blank">
+    <img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/bem.svg"
+      alt="BEM"
+      height="50"
+    />
+  </a>
+  <a href="https://www.jestjs.io/" target="_blank">
+    <img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/jest.svg"
+      alt="Jest"
+      height="50"
+    />
+  </a>
+  <a href="https://mui.com/" target="_blank">
+    <img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/mui.png"
+      alt="Material UI"
+      height="50"
+    />
+  </a>
+</div>
+
+<br/>
+
+## Connect with me
+
+<div align="center">
+  <a href="https://github.com/rafaelaqueirozg" target="_blank">
+    <img
+    src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
+    alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://twitter.com/rafaeladev" target="_blank">
+    <img
+    src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white
+    alt=twitter style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/rafaelaqueirozg" target="_blank">
+    <img
+    src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+    alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://instagram.com/rafaelaqueirozg" target="_blank">
+    <img
+    src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white
+    alt=instagram style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://medium.com/rafaelaqueirozg" target="_blank">
+    <img
+    src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white
+    alt=medium style="margin-bottom: 5px;" />
+  </a>
+</div>
+
+<br/>
+
+## Github Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelaqueirozg&show_icons=true&count_private=true&hide_border=true" />
   
-  <a href="https://github.com/rafaelaqueirozg">
-    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/rafaelaqueirozg">
-  </a>
-
-  <a href="https://www.linkedin.com/in/rafaelaqueirozg/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelaqueirozg/">
-  </a>
-
-  <a href="https://www.instagram.com/rafaelaqueirozg/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaelaqueirozg/">
-  </a>
-
-  <a href="mailto:rqueiroz2108@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-f4f4f4?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:rqueiroz2108@gmail.com/">
-  </a>
-</p>
-
-<h3 align="center">
-Languages and Tools
-</h3>
-
-<p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="30" height="30" style="max-width:100%;margin-right: 15px">
-  </a>
-  
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="30" height="30" style="max-width:100%;margin-right: 15px">
-  </a>
-  
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular 2+" width="30" height="30" style="max-width:100%;margin-right: 15px">
-  </a>
-  
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30" style="max-width:100%;margin-right: 15px">
-  </a>
-  
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30" style="max-width:100%;margin-right: 15px">
-  </a>
-  
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="30" height="30" style="max-width:100%;margin-right: 15px">
-  </a>
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelaqueirozg&count_private=true&show_icons=true&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaqueirozg&count_private=true&show_icons=true&hide_border=true" />
-</p>
-
-<h2 align="center">
-  Show some ❤️ by starring some of the repositories!
-</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaqueirozg&hide_border=true&layout=compact"  />
+</div>
