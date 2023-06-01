@@ -10,7 +10,7 @@ I've been working as a software engineer since 2019, with expertise in **Fronten
 
 - 🌍 I'm based in Ceará, Brazil
 - 🎓 Undergraduate in Web Development at Universidade Estácio de Sá
-- 🚀 Frontend Engineer at CI&T
+- 🚀 Frontend Engineer Grupo Boticário
 - 📌 Current working with Angular 2+, Typescript and React
 - 💬 If you have any question or just wanna talk about programming, contact me
 
