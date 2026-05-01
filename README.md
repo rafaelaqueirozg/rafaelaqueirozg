@@ -1,192 +1,63 @@
-# <div align="center">Hi 👋 I'm Rafaela, a Software Engineer</div>
+<h1 align="center">Hi 👋, I'm Rafaela</h1>
+
+###
+
+<p align="center">A passionate Software Engineer from Brazil</p>
+
+###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafaelaqueirozg&&style=flat-square" />
+  <a href="https://www.linkedin.com/in/rafaelaqueirozg/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <a/>
 </div>
 
-<br/>
+###
 
-I've been working as a software engineer since 2019, with expertise in **Frontend Development**, working with the main technologies, such as **Angular, Typescript, React, RxJS**, always striving for semantic, simple, and functional codes that follow good software practices and principles.
+<h2 align="left">About me</h2>
 
-- 🌍 I'm based in Ceará, Brazil
-- 🎓 Undergraduate in Web Development at Universidade Estácio de Sá
-- 🚀 Frontend Engineer Grupo Boticário
-- 📌 Current working with Angular 2+, Typescript and React
-- 💬 If you have any question or just wanna talk about programming, contact me
+###
 
-<br/>
+<p align="left">✨ Fixing bugs and solving problems since 2019<br>🎓 Currently pursuing a Postgraduate degree in Software Engineering with AI, Graduated in Web Development<br>📚 I'm currently learning Backend, Kotlin and Cloud AWS<br>🚀 Senior Software Engineer at Grupo Boticário</p>
 
-## My Skill Set
+###
+
+<h2 align="left">I code with</h2>
+
+###
 
 <div align="center">
-  <a href="https://www.javascript.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
-      alt="JavaScript"
-      height="50"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg"
-      alt="TypeScript"
-      height="50"
-    />
-  </a>
-  <a href="https://angular.io/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg"
-      alt="Angular"
-      height="50"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
-      alt="React"
-      height="50"
-    />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-    <img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
-      alt="HTML5"
-      height="50"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"
-      alt="CSS3"
-      height="50"
-    />
-  </a>
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"
-      alt="Bootstrap"
-      height="50"
-    />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/sass-original.svg"
-      alt="Sass"
-      height="50"
-    />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg"
-      alt="Node.js"
-      height="50"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"
-      alt="Linux"
-      height="50"
-    />
-  </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/redux-original.svg"
-      alt="Redux"
-      height="50"
-    />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"
-      alt="Git"
-      height="50"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg"
-      alt="Figma"
-      height="50"
-    />
-  </a>
-  <a href="http://getbem.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/bem.svg"
-      alt="BEM"
-      height="50"
-    />
-  </a>
-  <a href="https://www.jestjs.io/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/jest.svg"
-      alt="Jest"
-      height="50"
-    />
-  </a>
-  <a href="https://mui.com/" target="_blank">
-    <img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/mui.png"
-      alt="Material UI"
-      height="50"
-    />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="40" alt="podman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-<br/>
-
-## Connect with me
-
-<div align="center">
-  <a href="https://github.com/rafaelaqueirozg" target="_blank">
-    <img
-    src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
-    alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/rafaeladev" target="_blank">
-    <img
-    src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white
-    alt=twitter style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/rafaelaqueirozg" target="_blank">
-    <img
-    src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
-    alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://instagram.com/rafaelaqueirozg" target="_blank">
-    <img
-    src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white
-    alt=instagram style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://medium.com/@rafaelaqueirozg" target="_blank">
-    <img
-    src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white
-    alt=medium style="margin-bottom: 5px;" />
-  </a>
-</div>
-
-<br/>
-
-## Github Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelaqueirozg&show_icons=true&count_private=true&hide_border=true" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaqueirozg&hide_border=true&layout=compact"  />
-</div>
+###
